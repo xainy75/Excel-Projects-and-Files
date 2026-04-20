@@ -1,0 +1,1 @@
+= Excel.Workbook(File.Contents("E:\Excel Master Data\Power BI Master Data\Power Query\File\JS.xlsx"))
